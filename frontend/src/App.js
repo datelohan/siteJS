@@ -26,8 +26,9 @@ function App() {
     <div className="App">
       <h1>Dados do Servidor:</h1>
       <p>{dadosDoServidor.mensagem}</p>
-      <h1 className="text-3xl font-bold underline">
-      Hello world!
+      <h1 className="text-3xl font-bold ">
+        Hello World
+       !
     </h1>
     </div>
     
